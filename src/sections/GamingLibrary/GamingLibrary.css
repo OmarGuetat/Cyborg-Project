@@ -1,0 +1,4 @@
+.gaming_library_cards{
+    display: flex;
+    flex-wrap: wrap;
+}
